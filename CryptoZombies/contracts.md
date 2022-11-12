@@ -36,4 +36,16 @@ struct person {
     uint age;
     string name;
 }
+person[] public structPerson;
 ```
+
+### instantiating structs
+
+you have to create a new person `person multiverse001 = person (001, 'MultiverseMecury')`
+
+then you push it into our array of structs.
+`structPerson.push(multiverse001)`.
+
+you can simplify your work by : `structPerson.push(person(001,"Mecury"))`
+
+arrays.push() adds element to the end of our list.
