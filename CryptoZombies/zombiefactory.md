@@ -1,5 +1,7 @@
 # ZOMBIE FACTORY
 
+view my zombie [wand](https://share.cryptozombies.io/en/lesson/1/share/wand?id=Y3p8NTYzMzU1)
+
 our factory should:
 
 1. it will maintain a database of all our zombies in in our army
